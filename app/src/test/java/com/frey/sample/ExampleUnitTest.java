@@ -1,4 +1,4 @@
-package com.frey.treasure;
+package com.frey.sample;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.frey.treasure;
+package com.frey.sample;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
